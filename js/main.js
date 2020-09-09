@@ -130,7 +130,7 @@ function ComprarCarrito() {
     cargaLista();//vuelve a cargar la lista inicial
 }
 function AcercaDe() {//funcion que muestra la pagina 'Acerca de...'
-    let html = "<div class='content'><div class='header'>Prueba Realizada por Byron Ram&iacute;rez Parada para BSALE</div><p>Deploy:</p><p>GitHub:</p><p>Correo: by.ramirez.91@outlook.com</p></div>";
+    let html = "<div class='content'><div class='header'>Prueba Realizada por Byron Ram&iacute;rez Parada para BSALE</div><p>Deploy: https://pruebabsale.herokuapp.com</p><p>GitHub: https://github.com/Baldraxx/PruebaBsale</p><p>Correo: by.ramirez.91@outlook.com</p></div>";
     inputfiltros.style.display = 'none';//oculta el div de filtros (en caso de que este visible)
     contenedor.innerHTML = html;//añade el contenido al contenedor
 }
