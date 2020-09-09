@@ -11,7 +11,7 @@ body {
   height: 100%;
   width: 100%;
   place-items: center;
-  background: linear-gradient(500deg, #d4fdff, #a1ffda);
+  background: linear-gradient(500deg, #effeff, #c8d0ff);
 }
 ::selection {
   color: #fff;
